@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CameliaMallus
 - 🌱 Currently learning Python
-- 📼 May soon launch a YouTube programming channel
+- ඞ May soon launch a YouTube programming channel ඞ
 
 
 <!---
