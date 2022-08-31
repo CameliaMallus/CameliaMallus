@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CameliaMallus 
 - 🌱 Currently learning Python 
-- 🎥 <a href="https://www.youtube.com/channel/UCTEyw9glRXDARI0rgYjBjnQ" target="_blank">YouTube</a>
+- 🎥 [YouTube](https://www.youtube.com/channel/UCTEyw9glRXDARI0rgYjBjnQ)
 
 
 <!---
